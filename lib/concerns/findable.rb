@@ -1,9 +1,9 @@
-module Findable
+# module Findable
 
-  def find_by_name
-
-
-  end 
+#   def find_by_name
 
 
-end 
+#   end 
+
+
+# end 
